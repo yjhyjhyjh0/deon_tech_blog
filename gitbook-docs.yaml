@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: deon_tech_blog_v2
+  structure:
+    - type: space
+      key: space-1
+      title: Home
+      path: room
+      default: true
+      content:
+        directory: ./room
